@@ -1,5 +1,4 @@
 #!/bin/sh
-sudo -s
 apt update
 apt upgrade -y
 apt install -y moreutils
