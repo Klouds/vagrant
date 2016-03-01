@@ -13,10 +13,6 @@
     {
       "type": "shell",
       "script": "setup.sh"
-    },
-    {
-      "type": "shell",
-      "script": "update.sh"
     }
   ]
 }
