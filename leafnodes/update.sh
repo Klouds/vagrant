@@ -18,3 +18,4 @@ ExecStart=/usr/sbin/startup
 [Install]
 WantedBy=multi-user.target
 EOF
+systemctl enable onboot.service
